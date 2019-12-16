@@ -79,7 +79,7 @@ To create a new app, you may choose one of the following methods:
 npx create-social-network my-network
 ```
 
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher
+[npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher
 
 ### npm
 
