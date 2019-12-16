@@ -129,4 +129,4 @@ The page will automatically reload if you make changes to the code.
 In development mode we are starting `api` and `frontend` servers with one command, but we need to deploy them separately.
 
 ## License
-© 2019 [T.Y.Brains](https://www.tybrains.com/). All Rights Reserved | by [Momen Shili](https://www.tybrains.com/momen%20shili/) 
+© 2019 [T.Y.Brains](https://www.tybrains.com/). All Rights Reserved | by Developed [Momen Shili](https://www.tybrains.com/momen%20shili/) 
