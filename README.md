@@ -41,7 +41,7 @@ cd my-network
 npm start
 ```
 
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher
+[npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher
 
 After installation open [http://localhost:3000/](http://localhost:3000/) to see your app.
 
